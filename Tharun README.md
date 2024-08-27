@@ -38,3 +38,26 @@
 <br/>
 <hr/>
 </p>
+## 🧑‍💻 I Code in
+<a href="https://www.anaconda.com/" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/Anaconda_logo.png"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/Git_Logo.png"/> </a>
+<a href="https://github.com/" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/Github_logo.png"/> </a>
+<a href="https://jupyter.org/" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/Jupyter_logo.png"/> </a>
+<a href="https://keras.io/api/" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/Keras_logo.png"/> </a>
+<a href="https://matplotlib.org/stable/index.html" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/Matplotlib_logo.png"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/MySQL_logo.png"/> </a>
+<a href="https://www.nltk.org/" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/Nltk_logo.png"/> </a>
+<a href="https://numpy.org/doc/" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/Numpy_logo.png"/> </a>
+<a href="https://pandas.pydata.org/docs/" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/Pandas_logo.png"/> </a>
+<a href="https://plotly.com/python/" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/Plotly_logo.png"/> </a>
+<a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/Power_BI_logo.png"/> </a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/PyCharm_logo.png"/> </a>
+<a href="https://www.python.org/doc/" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/Python_logo.png"/> </a>
+<a href="https://scipy.org/" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/Scipy_logo.png"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/Seaborn_logo.png"/> </a>
+<a href="https://scikit-learn.org/stable/" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/Sklearn_logo.png"/> </a>
+<a href="https://www.w3schools.com/sql/" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/SQL_logo.png"/> </a>
+<a href="https://docs.streamlit.io/" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/Streamlit_logo.png"/> </a>
+<a href="https://www.tensorflow.org/api_docs/python/tf/all_symbols" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/TensorFlow_logo.png"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/Vscode_logo.png"/> </a>
+<a href="https://xgboost.readthedocs.io/en/latest/" target="_blank"> <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/blob/main/logos/XGBoost_logo.png"/> </a>
