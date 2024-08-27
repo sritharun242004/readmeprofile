@@ -13,10 +13,24 @@
 - ⚡ Fun fact **My daily routine: snooze in the morning, lift weights in the evening, and code into the night. It's a perfect mix of sleep, strength, and syntax! 😴💪💻**
 
 ## 🤝 Connect with me
-<p align="left">
+</div>
+ 
+<div align="center"> 
+  <a href="mailto:sritharun.242004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/tharunkumarl" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-<a href = "https://github.com/sritharun242004"><img src="https://img.icons8.com/color/48/000000/domain--v1.png"/>
-<a href = "https://www.linkedin.com/in/tharunkumarl"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="sritharun.242004@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png"/></a>
-
-</p>
+<br/>
+<hr/>
