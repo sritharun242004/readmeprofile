@@ -35,10 +35,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
-<br/>
-<hr/>
-</p>
-## 🧑‍💻 I Code in
 <a href="https://www.anaconda.com/" target="_blank">
   <img height="50" width="50" src="https://github.com/sritharun242004/sritharun242004/raw/main/logos/Anaconda%20logo.png"/>
 </a>
