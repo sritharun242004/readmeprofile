@@ -17,6 +17,6 @@
 
 <a href = "https://github.com/sritharun242004"><img src="https://img.icons8.com/color/48/000000/domain--v1.png"/>
 <a href = "https://www.linkedin.com/in/tharunkumarl"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="mailto:sritharun.242004@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png"/></a>
+<a href="sritharun.242004@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png"/></a>
 
 </p>
