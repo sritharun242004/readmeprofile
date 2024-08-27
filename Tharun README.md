@@ -12,6 +12,11 @@
 
 - ⚡ Fun fact **My daily routine: snooze in the morning, lift weights in the evening, and code into the night. It's a perfect mix of sleep, strength, and syntax! 😴💪💻**
 
-<h3 align="left">Connect with me:</h3>
+## 🤝 Connect with me
 <p align="left">
-<a href="https://codepen.io/mali-umesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mali-umesh" height="30" width="40" /></a>
+
+<a href = "https://github.com/sritharun242004"><img src="https://img.icons8.com/color/48/000000/domain--v1.png"/>
+<a href = "https://www.linkedin.com/in/tharunkumarl"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="mailto:sritharun.242004@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png"/></a>
+
+</p>
