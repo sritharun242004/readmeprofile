@@ -26,7 +26,9 @@
 <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+ </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="40" height="40"/>
 <img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-SQL-development-files-those-icons-flat-those-icons.png" alt="external-SQL-development-files-those-icons-flat-those-icons"/>
 
 <p align="left">
