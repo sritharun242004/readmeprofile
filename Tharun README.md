@@ -73,7 +73,7 @@
 </a>
 
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-  <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit" width="50" height="50"/>
+  <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit" width="55" height="50"/>
 </a>
 
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
