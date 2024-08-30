@@ -90,6 +90,9 @@
     <img src="URL_to_Nltk_logo.png" alt="NLTK" width="40" height="40"/>
   </a>
   
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/fluency/50/jupyter.png" alt="Jupyter" width="40" height="40"/>
+</a>
 
   </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer">
@@ -97,9 +100,7 @@
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="URL_to_Power_BI_logo.png" alt="Power BI" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="URL_to_PyCharm_logo.png" alt="PyCharm" width="40" height="40"/>
+
 
   </a>
   <a href="https://scipy.org/" target="_blank" rel="noreferrer">
@@ -110,9 +111,7 @@
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="URL_to_Sklearn_logo.png" alt="Sklearn" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer">
-    <img src="URL_to_SQL_logo.png" alt="SQL" width="40" height="40"/>
+
   </a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
     <img src="URL_to_Streamlit_logo.png" alt="Streamlit" width="40" height="40"/>
