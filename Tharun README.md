@@ -104,7 +104,7 @@
   <!-- First Row: Most Used Languages and GitHub Stats -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sritharun242004&show_icons=true&locale=en&layout=compact" alt="sritharun242004" style="margin: 10px; height: 195px; width: 395px;"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=sritharun242004&show_icons=true&locale=en" alt="sritharun242004" style="margin: 10px; height: 205px; width: 395px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=sritharun242004&show_icons=true&locale=en" alt="sritharun242004" style="margin: 10px; height: 200px; width: 395px;"/>
   </p>
 
   <!-- Second Row: Streak Stats -->
