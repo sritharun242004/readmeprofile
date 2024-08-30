@@ -61,15 +61,6 @@
   <img src="https://img.icons8.com/material-rounded/24/keras.png" alt="Keras" width="24" height="24"/>
 </a>
 
-
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/pycharm--v2.png" alt="PyCharm" width="40" height="40"/>
-</a>
-
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/fluency/50/jupyter.png" alt="Jupyter" width="40" height="40"/>
-</a>
-
 <a href="https://github.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/ios-glyphs/30/github.png" alt="GitHub" width="40" height="40"/>
 </a>
@@ -92,6 +83,20 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" width="48" height="48"/>
 </a>
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/visual-studio--v1.png" alt="Visual Studio" width="48" height="48"/>
+</a>
+<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/fluency/50/anaconda--v2.png" alt="Anaconda" width="50" height="50"/>
+</a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/pycharm--v2.png" alt="PyCharm" width="40" height="40"/>
+</a>
+
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/fluency/50/jupyter.png" alt="Jupyter" width="40" height="40"/>
+</a>
+
 
 
 <p align="left">
