@@ -99,6 +99,8 @@
     <img src="https://img.icons8.com/fluency/50/jupyter.png" alt="Jupyter" width="50" height="50"/>
   </a>
 </div>
+</div>
+<hr/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sritharun242004&show_icons=true&locale=en&layout=compact" alt="sritharun242004" /></p>
 
