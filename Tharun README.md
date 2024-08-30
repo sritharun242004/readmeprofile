@@ -103,13 +103,14 @@
 <div align="center">
   <!-- First Row: Most Used Languages and GitHub Stats -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sritharun242004&show_icons=true&locale=en&layout=compact" alt="sritharun242004" style="margin: 10px;"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=sritharun242004&show_icons=true&locale=en" alt="sritharun242004" style="margin: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sritharun242004&show_icons=true&locale=en&layout=compact" alt="sritharun242004" style="margin: 10px; height: 195px; width: 400px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=sritharun242004&show_icons=true&locale=en" alt="sritharun242004" style="margin: 10px; height: 195px; width: 400px;"/>
   </p>
 
-  <!-- Second Row: Contribution Snake and Streak Stats -->
+  <!-- Second Row: Streak Stats -->
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sritharun242004&" alt="sritharun242004" style="margin: 10px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sritharun242004&" alt="sritharun242004" style="margin: 10px; height: 195px; width: 820px;"/>
   </p>
 </div>
+
 
