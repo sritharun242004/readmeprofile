@@ -48,6 +48,10 @@
    </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://w7.pngwing.com/pngs/56/909/png-transparent-tensorflow-deep-learning-keras-machine-learning-caffe-thumbtack-miscellaneous-angle-rectangle-thumbnail.png" alt="TensorFlow" width="40" height="40"/>
+<a href="https://keras.io/" target="_blank" rel="noreferrer">
+  <img src="https://w7.pngwing.com/pngs/571/118/png-transparent-keras-logo-thumbnail.png" alt="Keras" width="40" height="40"/>
+</a>
+
 
 
 <p align="left">
@@ -93,9 +97,7 @@
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
     <img src="URL_to_PyCharm_logo.png" alt="PyCharm" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="40" height="40"/>
+
   </a>
   <a href="https://scipy.org/" target="_blank" rel="noreferrer">
     <img src="URL_to_Scipy_logo.png" alt="SciPy" width="40" height="40"/>
