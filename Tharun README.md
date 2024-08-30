@@ -41,19 +41,20 @@
     <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="60" height="60"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://media.licdn.com/dms/image/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_600_2000/0/1688537312933?e=2147483647&v=beta&t=p7C9OMCJl8NmJdRyb_b-rfwK2iwgy87BfWPYVkHtyHQ" alt="Matplotlib" width="50" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="48" height="48"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="50" height="60"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="Scikit-learn" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="60"/>
+</a>
   </a>
   <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="NLTK" width="60" height="60"/>
-  </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://thumbnail.imgbin.com/11/11/5/imgbin-tensorflow-deep-learning-keras-machine-learning-caffe-thumbtack-iBz4gCWVxdPrUbVxiwszvaLhT_t.jpg" alt="TensorFlow" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/tensorflow.png" alt="TensorFlow" width="60" height="60"/>
+  </a>
   </a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/material-rounded/24/keras.png" alt="Keras" width="60" height="60"/>
@@ -65,9 +66,6 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="50" height="50"/>
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/968/991/png-transparent-google-colab-logo-tech-companies.png" alt="Google Colab" width="60" height="60"/>
   </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency/50/flutter.png" alt="Flutter" width="60" height="60"/>
