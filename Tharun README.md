@@ -28,8 +28,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
  </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="40" height="40"/>
-<img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-SQL-development-files-those-icons-flat-those-icons.png" alt="external-SQL-development-files-those-icons-flat-those-icons"/>
+    <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="MySQL" width="40" height="40"/>
+    
 
 <p align="left">
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
@@ -61,9 +64,7 @@
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="URL_to_Matplotlib_logo.png" alt="Matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="URL_to_MySQL_logo.png" alt="MySQL" width="40" height="40"/>
+
   </a>
   <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
     <img src="URL_to_Nltk_logo.png" alt="NLTK" width="40" height="40"/>
