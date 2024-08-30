@@ -42,6 +42,9 @@
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://media.licdn.com/dms/image/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_600_2000/0/1688537312933?e=2147483647&v=beta&t=p7C9OMCJl8NmJdRyb_b-rfwK2iwgy87BfWPYVkHtyHQ" alt="Matplotlib" width="40" height="48"/>
+    </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="40" height="40"/>
 
 
 <p align="left">
@@ -95,7 +98,7 @@
     <img src="URL_to_Scipy_logo.png" alt="SciPy" width="40" height="40"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="URL_to_Seaborn_logo.png" alt="Seaborn" width="40" height="40"/>
+    <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="URL_to_Sklearn_logo.png" alt="Sklearn" width="40" height="40"/>
