@@ -31,7 +31,7 @@
 
 <p align="left">
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-    <img src="URL_to_Anaconda_logo.png" alt="Anaconda" width="40" height="40"/>
+    <img src="https://www.bing.com/images/search?view=detailV2&ccid=jai5Vc8k&id=D8DB967B7837A7E547D9FDC34CBA78A4E6BAE581&thid=OIP.jai5Vc8k0QxMUvCw7Uzg_QHaHa&mediaurl=https%3a%2f%2fofilibre.urjc.es%2fimages%2ffichas%2fanaconda%2flogo.png&exph=1920&expw=1920&q=anaconda+logo+link&simid=608000325794092410&FORM=IRPRST&ck=33D1C471F18EC1611ADFCCDD9EE1DBF3&selectedIndex=0&itb=1&idpp=overlayview&ajaxhist=0&ajaxserp=0" alt="Anaconda" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="URL_to_firebase.png" alt="Firebase" width="40" height="40"/>
