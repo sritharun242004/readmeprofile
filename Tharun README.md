@@ -26,134 +26,68 @@
 <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
- 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="50" height="50"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="MySQL" width="50" height="50"/>
-</a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" width="40" height="40"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="50" height="50"/>
-</a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://media.licdn.com/dms/image/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_600_2000/0/1688537312933?e=2147483647&v=beta&t=p7C9OMCJl8NmJdRyb_b-rfwK2iwgy87BfWPYVkHtyHQ" alt="Matplotlib" width="40" height="48"/>
-</a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="40" height="48"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="Scikit-learn" width="50" height="50"/>
-</a>
-<a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-  <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="NLTK" width="50" height="50"/>
-</a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-  <img src="https://thumbnail.imgbin.com/11/11/5/imgbin-tensorflow-deep-learning-keras-machine-learning-caffe-thumbtack-iBz4gCWVxdPrUbVxiwszvaLhT_t.jpg" alt="TensorFlow" width="50" height="50"/>
-</a>
-</a>
-<a href="https://keras.io/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/material-rounded/24/keras.png" alt="Keras" width="50" height="50"/>
-</a>
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/ios-glyphs/30/github.png" alt="GitHub" width="50" height="50"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40" height="40"/>
-</a>
-<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://w7.pngwing.com/pngs/968/991/png-transparent-google-colab-logo-tech-companies.png" alt="Google Colab" width="50" height="50"/>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/fluency/50/flutter.png" alt="Flutter" width="50" height="50"/>
-</a>
-</a>
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-  <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit" width="55" height="45"/>
-</a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
-  <img src="https://static-00.iconduck.com/assets.00/heroku-icon-2048x2048-4rs1dp6p.png" alt="Heroku" width="50" height="50"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" width="48" height="48"/>
-</a>
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/visual-studio--v1.png" alt="Visual Studio" width="48" height="48"/>
-</a>
-<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/fluency/50/anaconda--v2.png" alt="Anaconda" width="50" height="50"/>
-</a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/pycharm--v2.png" alt="PyCharm" width="40" height="40"/>
-</a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/fluency/50/jupyter.png" alt="Jupyter" width="40" height="40"/>
-</a>
-
-
-<p align="left">
-  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-    <img src="URL_to_Anaconda_logo.png" alt="Anaconda" width="40" height="40"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="60" height="60"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="URL_to_firebase.png" alt="Firebase" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="MySQL" width="60" height="60"/>
   </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="URL_to_flutterf.png" alt="Flutter" width="40" height="40"/>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" width="50" height="50"/>
   </a>
-  <a href="https://flutterflow.io/" target="_blank" rel="noreferrer">
-    <img src="URL_to_Flutterflow_Logo.webp" alt="Flutterflow" width="40" height="40"/>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="60" height="60"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="URL_to_Git_Logo.png" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="URL_to_Github_logo.png" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
-    <img src="URL_to_heruko.png" alt="Heroku" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="URL_to_Jupyter_logo.png" alt="Jupyter" width="40" height="40"/>
-  </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="URL_to_Keras_logo.png" alt="Keras" width="40" height="40"/>
- 
-  </a>
-  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-    <img src="URL_to_Nltk_logo.png" alt="NLTK" width="40" height="40"/>
-  </a>
-  
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/fluency/50/jupyter.png" alt="Jupyter" width="40" height="40"/>
-</a>
-
-  </a>
-  <a href="https://plotly.com/" target="_blank" rel="noreferrer">
-    <img src="URL_to_Plotly_logo.png" alt="Plotly" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="URL_to_Power_BI_logo.png" alt="Power BI" width="40" height="40"/>
-
-
-  </a>
-  <a href="https://scipy.org/" target="_blank" rel="noreferrer">
-    <img src="URL_to_Scipy_logo.png" alt="SciPy" width="40" height="40"/>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://media.licdn.com/dms/image/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_600_2000/0/1688537312933?e=2147483647&v=beta&t=p7C9OMCJl8NmJdRyb_b-rfwK2iwgy87BfWPYVkHtyHQ" alt="Matplotlib" width="50" height="60"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+    <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="50" height="60"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="URL_to_Sklearn_logo.png" alt="Sklearn" width="40" height="40"/>
-
+    <img src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="Scikit-learn" width="60" height="60"/>
+  </a>
+  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="NLTK" width="60" height="60"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://thumbnail.imgbin.com/11/11/5/imgbin-tensorflow-deep-learning-keras-machine-learning-caffe-thumbtack-iBz4gCWVxdPrUbVxiwszvaLhT_t.jpg" alt="TensorFlow" width="60" height="60"/>
+  </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/material-rounded/24/keras.png" alt="Keras" width="60" height="60"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-glyphs/30/github.png" alt="GitHub" width="60" height="60"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="50" height="50"/>
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/968/991/png-transparent-google-colab-logo-tech-companies.png" alt="Google Colab" width="60" height="60"/>
+  </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/50/flutter.png" alt="Flutter" width="60" height="60"/>
   </a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="URL_to_Streamlit_logo.png" alt="Streamlit" width="40" height="40"/>
- 
+    <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit" width="60" height="60"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="URL_to_Vscode_logo.png" alt="VSCode" width="40" height="40"/>
+  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/heroku-icon-2048x2048-4rs1dp6p.png" alt="Heroku" width="60" height="60"/>
   </a>
-</p>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" width="50" height="50"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/visual-studio--v1.png" alt="Visual Studio" width="50" height="50"/>
+  </a>
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/50/anaconda--v2.png" alt="Anaconda" width="60" height="60"/>
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/pycharm--v2.png" alt="PyCharm" width="50" height="50"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/50/jupyter.png" alt="Jupyter" width="50" height="50"/>
+  </a>
+</div>
