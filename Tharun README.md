@@ -28,34 +28,34 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <!-- First Row -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="60" height="60"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="MySQL" width="60" height="60"/>
   </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" width="50" height="50"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="60" height="60"/>
   </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="48" height="48"/>
   </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="50" height="60"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="60"/>
   </a>
-  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="NLTK" width="60" height="60"/>
   </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://img.icons8.com/color/48/tensorflow.png" alt="TensorFlow" width="60" height="60"/>
   </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+  <a href="https://keras.io/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://img.icons8.com/material-rounded/24/keras.png" alt="Keras" width="60" height="60"/>
   </a>
 </div>
@@ -65,37 +65,37 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <!-- Second Row -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
+  <a href="https://github.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://img.icons8.com/ios-glyphs/30/github.png" alt="GitHub" width="60" height="60"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="50" height="50"/>
   </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://img.icons8.com/fluency/50/flutter.png" alt="Flutter" width="60" height="60"/>
   </a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit" width="60" height="60"/>
   </a>
-  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://static-00.iconduck.com/assets.00/heroku-icon-2048x2048-4rs1dp6p.png" alt="Heroku" width="60" height="60"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" width="50" height="50"/>
   </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://img.icons8.com/color/48/visual-studio--v1.png" alt="Visual Studio" width="50" height="50"/>
   </a>
-  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://img.icons8.com/fluency/50/anaconda--v2.png" alt="Anaconda" width="60" height="60"/>
   </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://img.icons8.com/color/48/pycharm--v2.png" alt="PyCharm" width="50" height="50"/>
   </a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab" width="48" height="48"/>
   </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://img.icons8.com/fluency/50/jupyter.png" alt="Jupyter" width="50" height="50"/>
   </a>
 </div>
