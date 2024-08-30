@@ -58,7 +58,7 @@
     <img src="https://w7.pngwing.com/pngs/56/909/png-transparent-tensorflow-deep-learning-keras-machine-learning-caffe-thumbtack-miscellaneous-angle-rectangle-thumbnail.png" alt="TensorFlow" width="40" height="40"/>
 
 <a href="https://keras.io/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/material-rounded/24/keras.png" alt="Keras" width="24" height="24"/>
+  <img src="https://img.icons8.com/material-rounded/24/keras.png" alt="Keras" width="50" height="50"/>
 </a>
 
 <a href="https://github.com/" target="_blank" rel="noreferrer">
