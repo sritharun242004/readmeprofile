@@ -101,12 +101,13 @@
 </div>
 <hr/>
 <div align="center">
+  <!-- First Row: Most Used Languages and GitHub Stats -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sritharun242004&show_icons=true&locale=en&layout=compact" alt="sritharun242004" style="margin: 10px;"/>
-  </p>
-  <p>
     <img src="https://github-readme-stats.vercel.app/api?username=sritharun242004&show_icons=true&locale=en" alt="sritharun242004" style="margin: 10px;"/>
   </p>
+
+  <!-- Second Row: Contribution Snake and Streak Stats -->
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sritharun242004&" alt="sritharun242004" style="margin: 10px;"/>
   </p>
