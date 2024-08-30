@@ -45,10 +45,14 @@
     </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="40" height="48"/>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="Scikit-learn" width="50" height="50"/>
+</a>
+
    </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://w7.pngwing.com/pngs/56/909/png-transparent-tensorflow-deep-learning-keras-machine-learning-caffe-thumbtack-miscellaneous-angle-rectangle-thumbnail.png" alt="TensorFlow" width="40" height="40"/>
-    
+
 <a href="https://keras.io/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/material-rounded/24/keras.png" alt="Keras" width="24" height="24"/>
 </a>
