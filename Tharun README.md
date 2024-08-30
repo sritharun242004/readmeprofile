@@ -37,7 +37,7 @@
     <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" width="40" height="40"/>
     </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="50" height="50"/>
 
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
