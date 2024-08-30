@@ -63,6 +63,9 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/ios-glyphs/30/github.png" alt="GitHub" width="40" height="40"/>
 </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40" height="40"/>
+</a>
 
 
 <p align="left">
