@@ -45,6 +45,9 @@
     </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="40" height="48"/>
+   </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/56/909/png-transparent-tensorflow-deep-learning-keras-machine-learning-caffe-thumbtack-miscellaneous-angle-rectangle-thumbnail.png" alt="TensorFlow" width="40" height="40"/>
 
 
 <p align="left">
@@ -108,9 +111,7 @@
   </a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
     <img src="URL_to_Streamlit_logo.png" alt="Streamlit" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="URL_to_TensorFlow_logo.png" alt="TensorFlow" width="40" height="40"/>
+ 
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="URL_to_Vscode_logo.png" alt="VSCode" width="40" height="40"/>
