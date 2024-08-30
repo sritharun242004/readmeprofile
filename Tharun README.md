@@ -66,6 +66,9 @@
 </a>
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
   <img src="https://w7.pngwing.com/pngs/968/991/png-transparent-google-colab-logo-tech-companies.png" alt="Google Colab" width="50" height="50"/>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/fluency/50/flutter.png" alt="Flutter" width="50" height="50"/>
+</a>
 </a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
   <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit" width="55" height="45"/>
