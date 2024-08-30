@@ -100,8 +100,15 @@
   </a>
 </div>
 <hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sritharun242004&show_icons=true&locale=en&layout=compact" alt="sritharun242004" /></p>
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sritharun242004&show_icons=true&locale=en&layout=compact" alt="sritharun242004" style="margin: 10px;"/>
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=sritharun242004&show_icons=true&locale=en" alt="sritharun242004" style="margin: 10px;"/>
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sritharun242004&" alt="sritharun242004" style="margin: 10px;"/>
+  </p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sritharun242004&show_icons=true&locale=en" alt="sritharun242004" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sritharun242004&" alt="sritharun242004" /></p>
