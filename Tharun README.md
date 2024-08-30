@@ -28,11 +28,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
  </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="Python" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="MySQL" width="40" height="40"/>
-    
+
 
 <p align="left">
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
