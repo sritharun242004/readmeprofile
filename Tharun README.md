@@ -58,7 +58,12 @@
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/material-rounded/24/keras.png" alt="Keras" width="60" height="60"/>
   </a>
+</div>
 
+<!-- Transparent Line -->
+<div style="height: 20px;"></div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <!-- Second Row -->
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/ios-glyphs/30/github.png" alt="GitHub" width="60" height="60"/>
