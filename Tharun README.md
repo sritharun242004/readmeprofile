@@ -67,6 +67,9 @@
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40" height="40"/>
 </a>
 
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://w7.pngwing.com/pngs/968/991/png-transparent-google-colab-logo-tech-companies.png" alt="Google Colab" width="50" height="50"/>
+</a>
 
 <p align="left">
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
