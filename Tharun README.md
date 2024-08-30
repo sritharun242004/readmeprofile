@@ -32,8 +32,9 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="MySQL" width="40" height="40"/>
-
-
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" width="40" height="40"/>
 <p align="left">
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
     <img src="URL_to_Anaconda_logo.png" alt="Anaconda" width="40" height="40"/>
@@ -69,11 +70,10 @@
   <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
     <img src="URL_to_Nltk_logo.png" alt="NLTK" width="40" height="40"/>
   </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="URL_to_Numpy_logo.png" alt="NumPy" width="40" height="40"/>
+  
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="URL_to_Pandas_logo.png" alt="Pandas" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="40" height="40"/>
   </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer">
     <img src="URL_to_Plotly_logo.png" alt="Plotly" width="40" height="40"/>
