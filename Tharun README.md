@@ -71,6 +71,15 @@
   <img src="https://w7.pngwing.com/pngs/968/991/png-transparent-google-colab-logo-tech-companies.png" alt="Google Colab" width="50" height="50"/>
 </a>
 
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+  <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit" width="50" height="50"/>
+</a>
+
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+  <img src="https://static-00.iconduck.com/assets.00/heroku-icon-2048x2048-4rs1dp6p.png" alt="Heroku" width="50" height="50"/>
+</a>
+
+
 <p align="left">
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
     <img src="URL_to_Anaconda_logo.png" alt="Anaconda" width="40" height="40"/>
