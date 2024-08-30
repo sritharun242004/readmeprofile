@@ -60,6 +60,11 @@
   <img src="https://img.icons8.com/fluency/50/jupyter.png" alt="Jupyter" width="40" height="40"/>
 </a>
 
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/ios-glyphs/30/github.png" alt="GitHub" width="40" height="40"/>
+</a>
+
+
 <p align="left">
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
     <img src="URL_to_Anaconda_logo.png" alt="Anaconda" width="40" height="40"/>
