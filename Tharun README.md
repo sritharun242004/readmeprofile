@@ -48,6 +48,10 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
   <img src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="Scikit-learn" width="50" height="50"/>
 </a>
+<a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
+  <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="NLTK" width="50" height="50"/>
+</a>
+
 
    </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
