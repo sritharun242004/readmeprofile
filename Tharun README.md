@@ -35,6 +35,10 @@
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" width="40" height="40"/>
+    </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="40" height="40"/>
+
 <p align="left">
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
     <img src="URL_to_Anaconda_logo.png" alt="Anaconda" width="40" height="40"/>
@@ -64,16 +68,14 @@
     <img src="URL_to_Keras_logo.png" alt="Keras" width="40" height="40"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="URL_to_Matplotlib_logo.png" alt="Matplotlib" width="40" height="40"/>
+    <img src="https://media.licdn.com/dms/image/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_600_2000/0/1688537312933?e=2147483647&v=beta&t=p7C9OMCJl8NmJdRyb_b-rfwK2iwgy87BfWPYVkHtyHQ" alt="Matplotlib" width="40" height="40"/>
 
   </a>
   <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
     <img src="URL_to_Nltk_logo.png" alt="NLTK" width="40" height="40"/>
   </a>
   
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="40" height="40"/>
+
   </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer">
     <img src="URL_to_Plotly_logo.png" alt="Plotly" width="40" height="40"/>
