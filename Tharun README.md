@@ -52,7 +52,8 @@
   <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="NLTK" width="50" height="50"/>
 </a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-  <img src="https://w7.pngwing.com/pngs/56/909/png-transparent-tensorflow-deep-learning-keras-machine-learning-caffe-thumbtack-miscellaneous-angle-rectangle-thumbnail.png" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://thumbnail.imgbin.com/11/11/5/imgbin-tensorflow-deep-learning-keras-machine-learning-caffe-thumbtack-iBz4gCWVxdPrUbVxiwszvaLhT_t.jpg" alt="TensorFlow" width="50" height="50"/>
+</a>
 </a>
 <a href="https://keras.io/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/material-rounded/24/keras.png" alt="Keras" width="50" height="50"/>
