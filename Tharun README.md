@@ -90,6 +90,9 @@
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/pycharm--v2.png" alt="PyCharm" width="50" height="50"/>
   </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab" width="48" height="48"/>
+  </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency/50/jupyter.png" alt="Jupyter" width="50" height="50"/>
   </a>
