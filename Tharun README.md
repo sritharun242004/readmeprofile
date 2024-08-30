@@ -56,6 +56,9 @@
   <img src="https://img.icons8.com/color/48/pycharm--v2.png" alt="PyCharm" width="40" height="40"/>
 </a>
 
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/fluency/50/jupyter.png" alt="Jupyter" width="40" height="40"/>
+</a>
 
 <p align="left">
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
