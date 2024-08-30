@@ -26,7 +26,7 @@
 <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; padding-left: 20px;">
   <!-- First Row -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="60" height="60"/>
@@ -63,7 +63,7 @@
 <!-- Transparent Line -->
 <div style="height: 20px;"></div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; padding-left: 20px;">
   <!-- Second Row -->
   <a href="https://github.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://img.icons8.com/ios-glyphs/30/github.png" alt="GitHub" width="60" height="60"/>
