@@ -48,9 +48,11 @@
    </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://w7.pngwing.com/pngs/56/909/png-transparent-tensorflow-deep-learning-keras-machine-learning-caffe-thumbtack-miscellaneous-angle-rectangle-thumbnail.png" alt="TensorFlow" width="40" height="40"/>
+    
 <a href="https://keras.io/" target="_blank" rel="noreferrer">
-  <img src="https://w7.pngwing.com/pngs/571/118/png-transparent-keras-logo-thumbnail.png" alt="Keras" width="40" height="40"/>
+  <img src="https://img.icons8.com/material-rounded/24/keras.png" alt="Keras" width="24" height="24"/>
 </a>
+
 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/pycharm--v2.png" alt="PyCharm" width="40" height="40"/>
@@ -77,6 +79,10 @@
 
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
   <img src="https://static-00.iconduck.com/assets.00/heroku-icon-2048x2048-4rs1dp6p.png" alt="Heroku" width="50" height="50"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" width="48" height="48"/>
 </a>
 
 
