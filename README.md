@@ -52,14 +52,7 @@ Example:
 You can add buttons or badges for Gmail and LinkedIn for easy access.
 
 # Resources for Inspiration
-If you're looking for more inspiration, I highly recommend checking out this repo ( https://github.com/abhisheknaiidu/awesome-github-profile-readme ). It's a curated collection of creative and inspiring GitHub Profile READMEs. You can find plenty of examples to help you craft a README that truly reflects your personality and skills.
+If you're looking for more inspiration you can visit my profile, And also i highly recommend checking out this repo ( https://github.com/abhisheknaiidu/awesome-github-profile-readme ). It's a curated collection of creative and inspiring GitHub Profile READMEs. You can find plenty of examples to help you craft a README that truly reflects your personality and skills.
 
 Conclusion
 Creating a compelling GitHub Profile README is a great way to showcase your work and make a lasting impression on anyone who visits your profile. Whether you're just starting out or looking to revamp your existing profile, the steps outlined in this guide will help you create a README that stands out. Happy coding!
-
-
-
-
-
-
-
